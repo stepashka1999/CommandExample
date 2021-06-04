@@ -1,0 +1,12 @@
+D:\VS Projects\Practice\CommandPattern\SmartHome.Appllication\obj\Debug\net5.0\SmartHome.Application.csprojAssemblyReference.cache
+D:\VS Projects\Practice\CommandPattern\SmartHome.Appllication\obj\Debug\net5.0\SmartHome.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Practice\CommandPattern\SmartHome.Appllication\obj\Debug\net5.0\SmartHome.Application.AssemblyInfoInputs.cache
+D:\VS Projects\Practice\CommandPattern\SmartHome.Appllication\obj\Debug\net5.0\SmartHome.Application.AssemblyInfo.cs
+D:\VS Projects\Practice\CommandPattern\SmartHome.Appllication\obj\Debug\net5.0\SmartHome.Application.csproj.CoreCompileInputs.cache
+D:\VS Projects\Practice\CommandPattern\SmartHome.Appllication\bin\Debug\net5.0\SmartHome.Application.deps.json
+D:\VS Projects\Practice\CommandPattern\SmartHome.Appllication\bin\Debug\net5.0\SmartHome.Application.dll
+D:\VS Projects\Practice\CommandPattern\SmartHome.Appllication\bin\Debug\net5.0\ref\SmartHome.Application.dll
+D:\VS Projects\Practice\CommandPattern\SmartHome.Appllication\bin\Debug\net5.0\SmartHome.Application.pdb
+D:\VS Projects\Practice\CommandPattern\SmartHome.Appllication\obj\Debug\net5.0\SmartHome.Application.dll
+D:\VS Projects\Practice\CommandPattern\SmartHome.Appllication\obj\Debug\net5.0\ref\SmartHome.Application.dll
+D:\VS Projects\Practice\CommandPattern\SmartHome.Appllication\obj\Debug\net5.0\SmartHome.Application.pdb
